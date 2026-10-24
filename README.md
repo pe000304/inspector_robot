@@ -10,6 +10,6 @@ Hardware:
 
 Software:
 1) Linorobot2
-2) [ROS 2 Humble.]([url](https://docs.ros.org/en/humble/index.html)). [Add install instructions]([url](https://habr.com/ru/articles/768048/)) 
+2) [ROS 2 Humble.](https://docs.ros.org/en/humble/index.html). [Add install instructions](https://habr.com/ru/articles/768048/).
 3) micro-ROS
 4) Gazebo
